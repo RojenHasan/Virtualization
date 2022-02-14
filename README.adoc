@@ -45,7 +45,7 @@ Watch following youtube https://youtu.be/vReAkOq-59I[clip]. Read following https
 
 * Create a NAT-network with IP-range 10.10.20.0/24 and enable the DHCP-server.
 * Shutdown the Windows 10 VM and the Debian 11 VM and put then on this newly created NAT-network and start them.
-* Explain the difference between a NAT-network and a Host-only-network as if this as a question on an evaluation. 
+* Explain the difference between a NAT-network and a Host-only-network as if this was a question on an evaluation. 
 * Use the ping command to send an ICMP package between the VMs. 
 ** More information about ping and ICMP can be found in the networking courses.
 
