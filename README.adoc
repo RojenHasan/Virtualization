@@ -34,7 +34,7 @@ More information about snapshots can be found on this https://www.techrepublic.c
 
 == Clones
 
-More information about VirtualBox can be found in the official https://docs.oracle.com/en/virtualization/virtualbox/6.1/user/[documentaion]. Find the information about **cloning a VM**. It would be wise to read this documentation, before asking question. 
+More information about VirtualBox can be found in the official https://docs.oracle.com/en/virtualization/virtualbox/6.1/user/[documentaion]. Find the information about **cloning a VM**. It would be wise to read this documentation, before asking questions. 
 
 * Create a linked clone of the "Windows 10-Initial installation"-snapshot. 
 ** What is the difference between a full clone and a linked clone => RTFM. 
