@@ -14,7 +14,7 @@ Now you know what virtualization is and what it does.
 * Install VirtualBox and its Extension Pack.
 * Create your first virtual **Windows 10** machine, with 1 CPU, 1024 MB memory and 20 GB disk storage.
 ** If you are unsure about some settings, just try some. If they appear to be wrong, you can always delete the virtual machine and start over. 
-* Create your second virtual **Debian 11 GNU/Linux** machine with also 1 CPU, 1024 MB memory and 8 GB disk storage. 
+* Create your second virtual **Debian 11 GNU/Linux** (of Ubuntu Desktop) machine with also 1 CPU, 1024 MB memory and 8 GB disk storage. 
 ** If you are unsure about some settings, just try some. If they appear to be wrong, you can always delete the virtual machine and start over.
 
 == Snapshots
